@@ -26,8 +26,8 @@ https://github.com/Bugswriter/BugsWritersEmacs
 LibreOffice - bloat   
 Thunderbird - bloat  
 
-![Screenshot 2021-08-18 033150](https://user-images.githubusercontent.com/64992493/129940887-d1f2326b-3413-4be9-bbc5-ea2ed9e8191a.png)
-600MB of 'good riddance' 
+![Screenshot 2021-08-18 033150](https://user-images.githubusercontent.com/64992493/129940887-d1f2326b-3413-4be9-bbc5-ea2ed9e8191a.png)  
+_600MB of 'good riddance'_   
 
 
 - **Added in Apt:**  
