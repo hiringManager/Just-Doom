@@ -86,4 +86,7 @@ space-t-F  - full screen reset
 
 **If you encounter any other issues feel free to let me know - I can help you troubleshoot them. This is helping me learn emacs functionality, so def tell me how it can be improved.**
 
+![Screenshot 2021-08-19 220806](https://user-images.githubusercontent.com/64992493/130173342-f2d4e516-bc70-407f-90e7-9f5f760d4eb4.png)
+
+
 
