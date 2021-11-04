@@ -3,6 +3,9 @@
 **Portable Doom Emacs** - with emacs handling window management.  
 MX/antiX respin for convenience   
 
+
+################ Bootloader is broken. I'll be rebuilding this soon ###############################
+
   - [Changes to MX-beta](#changes-to-mx-beta)
   - [General Information](#general-information)
   - [Important Bindings](#important-bindings)
